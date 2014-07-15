@@ -1,0 +1,55 @@
+http://www.youtube.com/watch?v=6LVFzHU4fKc
+
+From 15min to 25min
+
+=====================================================================
+N  1 2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 .. 23 .. 29
+Pi   1  2     3     4           5     6           7     8     9 .. 10
+Ci         1     2     3  4  5     6     7  8  9    10
+
+  i      1  2  3  4  5  6  7  8  9 10
+ Pi+Ci   6  9 11 18 21 25 31 34 39 47
+|Pi-Ci|  2  3  5  2  1  1  4  4  5 11
+=====================================================================
+Example: i=2 ==> Pi=3, Ci=6, Pi+Ci=9, |Pi-Ci|=3
+
+
+=====================================================================
+Question: Does chapter 9 have 127 or 129 verses?
+=====================================================================
+
+Verse        9:127      9:128       9:129
+Number        1362       1363        1364 <-----.
+Ci            1143       1144        1145       |
+Ci(Ci)       9*127   2*2*2*11*13    5*229       |
+Ci(Ci(Ci))     953        954         955       |
+                                                |
+                                                |
+i=265 ==> Pi=1697, Ci=333, Pi+Ci=2030, |Pi-Ci|=1364
+               |
+               `--------------------------<-----.
+                                                |
+Quran 74:30: "Over it is Nineteen".             |
+Chapter 19 has 98 verses.                       |
+1998 is decimal concatenation.                  |
+Verse #1998 == 16:97 --------------------->-----`
+
+
+Definitions:
+IL = Initial Letters (ALM, ALR, ...)
+Number(IL) = Verse number in initialized chapters only
+             (skipping non-initialized chapters).
+
+Number(IL)     670        671 --.     672   all Composites.
+i              548        549   |     550
+C+i                      1220   |
+Verse# 1220 == 8:60             |
+Verse#  860 == 6:71 ------------' 671 = 11*61
+                             and 1161 = 9*129
+
+
+
+
+
+
+

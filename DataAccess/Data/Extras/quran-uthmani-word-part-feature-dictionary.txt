@@ -1,0 +1,108 @@
+﻿1	الشخص الاول	1st person
+2	الشخص الثاني	2nd person
+3	الشخص الثالث	3rd person
+M	مذكر	Masculine
+F	مؤنث	Feminine
+S	مفرد	Singular
+D	مثنى	Dual
+P	جمع	Plural
+N	اسم	Noun
+PN	اسم علم	Proper noun
+ACT_PCPL	اسم فاعل	Active participle
+PASS_PCPL	اسم مفعول	Passive participle
+VN	مصدر	Verbal noun
+ADJ	صفة	Adjective
+IMPN	اسم فعل أمر	Imperative verbal noun
+DEF	معرفة	Definite state
+INDEF	نكرة	Indefinite state
+NOM	مرفوع	Nominative case
+ACC	منصوب	Accusative case
+GEN	مجرور	Genitive case
+PRON	ضمير	Personal pronoun
+DEM	اسم اشارة	Demonstrative pronoun
+REL	اسم موصول	Relative pronoun
+T	ظرف زمان	Time adverb
+LOC	ظرف مكان	Location adverb
+V	فعل	Verb
+PERF	فعل ماض	Perfect verb
+IMPF	فعل مضارع	Imperfect verb
+IMPV	فعل أمر	Imperative verb
+IND	مرفوع	Indicative mood
+SUBJ	منصوب	Subjunctive mood
+JUS	مجزوم	Jussive mood
+ACT	مبني للمعلوم	Active voice
+PASS	مبني للمجهول	Passive voice
+(I)	(1)	First form
+(II)	(2)	Second form
+(III)	(3)	Third form
+(IV)	(4)	Fourth form
+(V)	(5)	Fifth form
+(VI)	(6)	Sixth form
+(VII)	(7)	Seventh form
+(VIII)	(8)	Eighth form
+(IX)	(9)	Ninth form
+(X)	(10)	Tenth form
+(XI)	(11)	Eleventh form
+(XII)	(12)	Twelfth form
+PP	حرف جر	Preposition
+CONJ	حرف عطف	Coordinating conjunction
+SUB	حرف مصدري	Subordinating conjunction
+AC	حرف نصب	Accusative particle
+AMD	حرف استدراك	Amendment particle
+ANS	حرف جواب	Answer particle
+AVR	حرف ردع	Aversion particle
+CAUS	حرف سببية	Causal particle
+CERT	حرف تحقيق	Certainty particle
+CIRC	حرف حال	Circumstantial particle
+COM	حرف المعية	Comitative particle
+COND	حرف شرط	Conditional particle
+EQ	حرف تسوية	Equalization particle
+EXH	حرف تحضيض	Exhortation particle
+EXL	حرف تفصيل	Explanation particle
+EXP	حرف استثناء	Exceptive particle
+EMPH	حرف توكيد	Emphatic particle
+FUT	حرف استقبال	Future particle
+INC	حرف ابتداء	Inceptive particle
+INT	حرف تفسير	Interpretation article
+INTG	حرف استفهام	Interogative particle
+NEG	حرف نفي	Negative particle
+PREV	حرف كاف	Preventive particle
+PRO	حرف نهي	Prohibition particle
+REM	حرف استئنافية	Resumption particle
+RES	حرف حصر	Restriction particle
+RET	حرف اضراب	Retraction particle
+RSLT	حرف شرطي	Resultant particle
+SUP	حرف زائد	Supplemental particle
+SUR	حرف فجاءة	Surprise particle
+VOC	حرف نداء	Vocative particle
+PART	حرف تبعيض	Partialness particle
+INL	حروف مقطعة	Quranic initials
+Al+	ال التعريف	Determiner al
+bi+	باء الجر	Preposition bi
+ka+	كاف الجر	Preposition ka
+ta+	تاء الجر	Preposition ta
+sa+	سين المستقبل	Future sa
+ya+	ياء النداء	Vocative yā
+ha+	هاء النداء	Vocative hā
+A_INTG+	الف الاستفهام	Interrogative alif
+A_EQ+	الف التسوية	Equalization alif
+b_PART+	باء التبعيض	Partialness bi
+f_REM+	فاء استئنافية	Resumption fa
+f_CONJ+	فاء عطف	Conjunctive fa
+f_RSLT+	فاء شرطية	Resultant fa
+f_SUP+	فاء زائدة	Supplemental fa
+f_CAUS+	فاء سببية	Causal fa
+l_PP+	لام الجر	Preposition lām
+l_EMPH+	لام التوكيد	Emphatic lām
+l_PRP+	لام التعليل	Purposive lām
+l_IMPV+	لام الامر	Imperative lām
+w_CONJ+	واو عطف	Conjunction wa
+w_REM+	واو استئنافية	Resumption wa
+w_CIRC+	واو الحال	Circumstantial wa
+w_SUP+	واو زائدة	Supplemental wa
+w_PP+	واو الجر	Preposition wa
+w_COM+	واو المعية	Comitative wa
++VOC	نداء متصل	Vocative suffix
++n_EMPH	توكيد متصل	Emphatic suffix
++PRON:	ضمير متصل	Pronoun suffix
++A_SILENT	الف زائدة	Supplemental alif

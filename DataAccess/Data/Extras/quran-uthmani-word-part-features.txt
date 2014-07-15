@@ -1,0 +1,44 @@
+﻿Type	Position	Attribute	Qualifier	PersonDegree	PersonGender	PersonNumber	Mood	Lemma	Root	SpecialGroup			
+PREFIX	INL	VN	NOM	1	M	S	IND	*	*	*			
+STEM	N	ACT_PCPL	ACC	2	F	D	SUBJ						
+SUFFIX	PN	PASS_PCPL	ACT	3		P	JUS						
+	V	NOM	PASS										
+	ADJ	ACC	(I)										
+	IMPN	GEN	(II)										
+	AC	DEF	(III)										
+	AMD	INDEF	(IV)										
+	ANS	PERF	(V)										
+	AVR	IMPF	(VI)										
+	CERT	IMPV	(VII)										
+	COND	Al+	(VIII)										
+	EXH	bi+	(IX)										
+	EXL	bip+	(X)										
+	EXP	ka+	(XI)										
+	FUT	ta+	(XII)										
+	INC	sa+											
+	INT	ya+											
+	INTG	ha+											
+	NEG	A_INTG+											
+	PREV	A_EQ+											
+	PRO	w_CONJ+											
+	RES	w_REM+											
+	RET	w_CIRC+											
+	SUP	w_SUP+											
+	SUR	w_PP+											
+	PP	w_COM+											
+	CONJ	f_REM+											
+	SUB	f_CONJ+											
+	EQ	f_RSLT+											
+	REM	f_SUP+											
+	CIRC	f_CAUS+											
+	COM	l_PP+											
+	RSLT	l_EMPH+											
+	CAUS	l_PRP+											
+	EMPH	l_IMPV+											
+	PRP	+n_EMPH											
+	IMPV	+VOC											
+	PRON	+PRON:		Person	Gender	Number							
+	DEM	+A_SILENT											
+	REL												
+	T												
+	LOC												
